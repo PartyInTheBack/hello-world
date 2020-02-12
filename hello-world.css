@@ -1,0 +1,21 @@
+/* Hello World CSS */
+
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body {
+  background: DarkSlateGrey;
+  font-size: 16px;
+  height: 100vh; /* trick to make the "page" the full height */
+}
+
+p {
+    font-size: 2em;
+    color: #D3D3D3;
+}
+
+#hand-spock {
+    color: #B8860B;
+    font-size: 5em;
+}
+
+.row {}
